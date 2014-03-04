@@ -9,6 +9,9 @@
 #import "TKFirstViewController.h"
 
 @interface TKFirstViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *label_size;
+@property (weak, nonatomic) IBOutlet UILabel *label_count;
+@property (weak, nonatomic) IBOutlet UIView *viewBg;
 
 @end
 
@@ -18,6 +21,14 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+- (IBAction)addImageClick:(id)sender {
+}
+- (IBAction)uploadImageCkick:(id)sender {
+}
+- (IBAction)clearImageClick:(id)sender {
+}
+- (IBAction)stopuploadimageClick:(id)sender {
 }
 
 - (void)didReceiveMemoryWarning
