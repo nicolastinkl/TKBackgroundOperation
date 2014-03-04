@@ -2,6 +2,11 @@
   
 处理图片后台上传队列,图片大小处理,图片发送失败问题处理.
 
+![Mou icon](http://kidswant.u.qiniudn.com/FmehLD_sfzJBWvbzVmqoCjH5KLK4) 
+
+http://kidswant.u.qiniudn.com/FmehLD_sfzJBWvbzVmqoCjH5KLK4
+
+
 ## 疑问
 
 - 为何微信朋友圈图片上传如此快?
